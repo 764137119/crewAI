@@ -221,6 +221,7 @@ members = [
     "lib/crewai-files",
     "lib/cli",
     "lib/crewai-core",
+    "first-crew",
 ]
 
 
